@@ -1,4 +1,4 @@
-<h1>LetsDefend - SOC146 - Phishing Mail Detected - Excel 4.0 Macros</h1>
+<h1>LetsDefend - SOC146 - Phishing Mail Detected</h1>
 
 
 <h2>Alert</h2>
